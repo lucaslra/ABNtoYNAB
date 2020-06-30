@@ -4,9 +4,9 @@ using CsvHelper.Configuration;
 
 namespace ABNtoYNAB.BL
 {
-    public class StatementRowMap : ClassMap<ImportRow>
+    public class ImportRowMap : ClassMap<ImportRow>
     {
-        public StatementRowMap()
+        public ImportRowMap()
         {
             AutoMap();
 

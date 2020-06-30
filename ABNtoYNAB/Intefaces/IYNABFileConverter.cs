@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace ABNtoYNAB.BL
+namespace ABNtoYNAB.BL.Interfaces
 {
     public interface IYNABFileConverter
     {
