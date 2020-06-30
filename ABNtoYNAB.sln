@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABNtoYNAB", "ABNtoYNAB\ABNtoYNAB.csproj", "{DBF834C1-C239-465E-8836-47CF74546DB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABNtoYNAB.BL", "ABNtoYNAB.BL\ABNtoYNAB.BL.csproj", "{63DA5A6C-3F81-4CA1-8E4E-A4539D256603}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{921C6549-571C-4415-87F7-CC7D2117CF6D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF834C1-C239-465E-8836-47CF74546DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF834C1-C239-465E-8836-47CF74546DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF834C1-C239-465E-8836-47CF74546DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF834C1-C239-465E-8836-47CF74546DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DA5A6C-3F81-4CA1-8E4E-A4539D256603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DA5A6C-3F81-4CA1-8E4E-A4539D256603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DA5A6C-3F81-4CA1-8E4E-A4539D256603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DA5A6C-3F81-4CA1-8E4E-A4539D256603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58300F43-5593-4A63-A535-5791745C4AA1}
+	EndGlobalSection
+EndGlobal
